@@ -2,6 +2,10 @@
   "name": "pdf-light",
   "version": "1.0.0",
   "description": "Enterprise-grade, lightweight HTML to PDF generator for Node.js - No Puppeteer/Chromium required.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisha-me/pdf-light.git"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
