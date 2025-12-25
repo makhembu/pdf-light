@@ -1,6 +1,6 @@
 # pdf-light
 
-[![CI](https://github.com/dew/pdf-light/actions/workflows/ci.yml/badge.svg)](https://github.com/dew/pdf-light/actions/workflows/ci.yml)
+[![CI](https://github.com/thisha-me/pdf-light/actions/workflows/ci.yml/badge.svg)](https://github.com/thisha-me/pdf-light/actions/workflows/ci.yml)
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](LICENSE)
 [![npm version](https://badge.fury.io/js/pdf-light.svg)](https://badge.fury.io/js/pdf-light)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
