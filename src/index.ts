@@ -16,3 +16,4 @@ export { GeneratePdfOptions } from './types';
 export async function generatePDF(options: GeneratePdfOptions): Promise<Buffer> {
   return PdfEngine.generate(options);
 }
+
